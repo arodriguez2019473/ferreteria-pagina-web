@@ -1,6 +1,5 @@
 {
-  "builds": [],
-  "routes": [
-    { "src": "/(.*)", "dest": "/Pagina.html" }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
