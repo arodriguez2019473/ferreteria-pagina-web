@@ -1,10 +1,6 @@
 {
-    "builds": [],
-
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/Pagina.html"
-        }
-    ]
+  "builds": [],
+  "routes": [
+    { "src": "/(.*)", "dest": "/Pagina.html" }
+  ]
 }
